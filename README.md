@@ -1,6 +1,6 @@
 # devlovers Site Logo Design
 
-This repository contains different formats of the devlovers logo.
+This repository contains different formats of the `devlovers <❤/>` logo.
 
 ## Authors
 
